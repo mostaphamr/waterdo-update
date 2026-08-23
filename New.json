@@ -1,8 +1,8 @@
 {
-  "version": "1.5.9",
+  "version": "1.6",
   "required": true,
   "discord_url": "https://discord.gg/UDD4RkE8Y",
   "message": "UPDATE !",
-  "download_url": "https://github.com/mostaphamr/waterdo-update/releases/download/v1.5.9/WaterDo-1.5.9-Setup.exe",
-  "sha256": "423ac53969ed24df97cda125ac8d7126eeafd4823f3b281e7743dc2d3cd84cfa"
+  "download_url": "https://github.com/mostaphamr/waterdo-update/releases/download/v1.6/WaterDo-1.6-Setup.exe",
+  "sha256": "0b6963c1dc4d3835bc2414e5e79a4cb55363684077e25c4d64cd976a4c85f3df"
 }
